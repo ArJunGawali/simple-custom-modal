@@ -1,0 +1,16 @@
+{
+  "name": "simple-custom-modal",
+  "version": "1.0.0",
+  "description": "simple modal for any click event",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" "
+  },
+  "keywords": [
+    "simple-custom-modal",
+    "modal",
+    "custo-modal"
+  ],
+  "author": "ArJun Gawali",
+  "license": "ISC"
+}
