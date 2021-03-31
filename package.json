@@ -1,5 +1,5 @@
 {
-  "name": "@arjungawali111/simple-custom-modal",
+  "name": "simple-custom-modal",
   "version": "1.0.0",
   "description": "simple modal for any click event,easy to use ",
   "main": "src/index.js",
